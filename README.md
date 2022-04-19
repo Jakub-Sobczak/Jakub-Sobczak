@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jakub Sobczak
-I'm an aspiring programmer from Poland. I really enjoy learning languages like React or JavaScript, as well as work in CMS. I'm looking for my first job as a Junior Front-End Developer.
+I'm an aspiring programmer from Poland. I really enjoy learning languages like React or JavaScript, as well as work in CMS. I'm looking for job as a Junior Front-End Developer.
 
 Skills: JS / HTML / CSS
 
